@@ -58,10 +58,17 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-2%2C695-brightgreen?style=for-the-badge&logo=github" alt="Total Contributions"/>
-  <img src="https://img.shields.io/badge/Current_Streak-847_Days-orange?style=for-the-badge&logo=github" alt="Streak"/>
-  <img src="https://img.shields.io/badge/Repositories-18-blue?style=for-the-badge&logo=github" alt="Repositories"/>
-  <img src="https://img.shields.io/badge/Years_Active-3_Years-purple?style=for-the-badge&logo=github" alt="Years Active"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VQuant68&theme=tokyonight&hide_border=true" alt="VQuant68 Streak Stats" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VQuant68&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=8" alt="VQuant68 Trophies" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VQuant68&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="VQuant68 Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VQuant68&layout=compact&theme=tokyonight&hide_border=true" alt="VQuant68 Top Languages" />
 </div>
 
 
