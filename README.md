@@ -1,10 +1,3 @@
-<img width="1024" height="1024" alt="cert_vlogo_07_web3_1778306058092" src="https://github.com/user-attachments/assets/0eed1df4-5fcc-4431-876d-82a85e51f9e4" />
-<img width="1024" height="1024" alt="cert_vlogo_06_mql5_1778306043313" src="https://github.com/user-attachments/assets/c3c78f92-9897-4c04-9dfc-514c6262374f" />
-<img width="1024" height="1024" alt="cert_vlogo_05_mev_1778306026694" src="https://github.com/user-attachments/assets/bf3a82fd-915b-4050-865e-01c938fbb901" />
-<img width="1024" height="1024" alt="cert_vlogo_04_pine_1778306013237" src="https://github.com/user-attachments/assets/50b1d571-c4d7-4115-a16d-f84938bc3f63" />
-<img width="1024" height="1024" alt="cert_vlogo_03_data_1778305999399" src="https://github.com/user-attachments/assets/523b1c5e-245b-4762-8769-6c290ce980ac" />
-<img width="1024" height="1024" alt="cert_vlogo_02_risk_1778305985465" src="https://github.com/user-attachments/assets/60429768-ffac-4d8e-be18-912ee9430a71" />
-<img width="1024" height="1024" alt="cert_vlogo_01_cloudflare_1778305971059" src="https://github.com/user-attachments/assets/e8151ab2-b766-4214-be2e-4e5c8b8b1226" />
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f0c5ea63-ef37-4ee5-88b6-718c6f04e6cb" width="100%" alt="VQuant Capital - Alpha Finance"/>
 </div>
@@ -128,15 +121,15 @@ Beyond FinTech, we deliver high-performance digital products for businesses acro
 
 ## 🏅 Certifications & Expertise Validation
 
-| # | Certification | Provider | Issued | Description |
-|---|---|---|---|---|
-| 1 | [**Cloudflare Network Optimization Specialist**](https://vquant.vn) | Cloudflare | Aug 2024 | Certifies expertise in DNS management, Edge computing (Workers), and latency reduction strategies critical for sub-millisecond execution in crypto arbitrage. |
-| 2 | [**Advanced Algorithmic Risk Management Protocol**](https://vquant.vn) | VQuant Capital Standard | Nov 2024 | Validates mastery of automated volatility and drawdown protection systems (sub-3% limits) specifically for Prop Firm compliance (FTMO, Funding Pips). |
-| 3 | [**Quantitative Data Extraction & API Integration**](https://vquant.vn) | VQuant Capital Standard | Jan 2025 | Validates expertise in extracting, reverse-engineering, and formatting massive JSON/API datasets from decentralized prediction markets (Polymarket) for predictive alpha analysis. |
-| 4 | [**Advanced Pine Script Architecture Engineering**](https://vquant.vn) | VQuant Capital Standard | Mar 2025 | Recognizes elite capability in programming multi-timeframe divergence engines, zero-lag architectures, and strict non-repainting indicator logic for commercial deployment on TradingView. |
-| 5 | [**Jito MEV Ecosystem & Token Snipe Specialist**](https://vquant.vn) | VQuant Capital Standard | Jun 2025 | Validation of advanced MEV techniques, real-time mathematical curve calculations, and Jito bundle integration for high-speed token migration sniper systems on Solana. |
-| 6 | [**MQL5 Institutional Execution Expert**](https://vquant.vn) | VQuant Capital Standard | Sep 2025 | Certifies complete mastery in converting manual trading logic into automated Expert Advisors (EAs) on MetaTrader 5, focusing on slippage control and order flow management. |
-| 7 | [**Full-Stack Web3 Application Architect**](https://vquant.vn) | VQuant Capital Standard | Dec 2025 | Certifies ability to architect secure desktop and web applications using React and Electron to connect MetaMask, bridging institutional algorithms with on-chain hashing execution. |
+| # | Certification | Provider | Issued | Description | Document |
+|---|---|---|---|---|---|
+| 1 | [**Cloudflare Network Optimization Specialist**](https://vquant.vn) | Cloudflare | Aug 2024 | Certifies expertise in DNS management, Edge computing (Workers), and latency reduction strategies critical for sub-millisecond execution in crypto arbitrage. | <img src="https://github.com/user-attachments/assets/e8151ab2-b766-4214-be2e-4e5c8b8b1226" width="250"/> |
+| 2 | [**Advanced Algorithmic Risk Management Protocol**](https://vquant.vn) | VQuant Capital Standard | Nov 2024 | Validates mastery of automated volatility and drawdown protection systems (sub-3% limits) specifically for Prop Firm compliance (FTMO, Funding Pips). | <img src="https://github.com/user-attachments/assets/60429768-ffac-4d8e-be18-912ee9430a71" width="250"/> |
+| 3 | [**Quantitative Data Extraction & API Integration**](https://vquant.vn) | VQuant Capital Standard | Jan 2025 | Validates expertise in extracting, reverse-engineering, and formatting massive JSON/API datasets from decentralized prediction markets (Polymarket) for predictive alpha analysis. | <img src="https://github.com/user-attachments/assets/523b1c5e-245b-4762-8769-6c290ce980ac" width="250"/> |
+| 4 | [**Advanced Pine Script Architecture Engineering**](https://vquant.vn) | VQuant Capital Standard | Mar 2025 | Recognizes elite capability in programming multi-timeframe divergence engines, zero-lag architectures, and strict non-repainting indicator logic for commercial deployment on TradingView. | <img src="https://github.com/user-attachments/assets/50b1d571-c4d7-4115-a16d-f84938bc3f63" width="250"/> |
+| 5 | [**Jito MEV Ecosystem & Token Snipe Specialist**](https://vquant.vn) | VQuant Capital Standard | Jun 2025 | Validation of advanced MEV techniques, real-time mathematical curve calculations, and Jito bundle integration for high-speed token migration sniper systems on Solana. | <img src="https://github.com/user-attachments/assets/bf3a82fd-915b-4050-865e-01c938fbb901" width="250"/> |
+| 6 | [**MQL5 Institutional Execution Expert**](https://vquant.vn) | VQuant Capital Standard | Sep 2025 | Certifies complete mastery in converting manual trading logic into automated Expert Advisors (EAs) on MetaTrader 5, focusing on slippage control and order flow management. | <img src="https://github.com/user-attachments/assets/c3c78f92-9897-4c04-9dfc-514c6262374f" width="250"/> |
+| 7 | [**Full-Stack Web3 Application Architect**](https://vquant.vn) | VQuant Capital Standard | Dec 2025 | Certifies ability to architect secure desktop and web applications using React and Electron to connect MetaMask, bridging institutional algorithms with on-chain hashing execution. | <img src="https://github.com/user-attachments/assets/0eed1df4-5fcc-4431-876d-82a85e51f9e4" width="250"/> |
 
 ---
 
