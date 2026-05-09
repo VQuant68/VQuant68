@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=VQuant&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Institutional%20Algorithmic%20Trading%20%26%20FinTech%20Solutions&descAlignY=60&descSize=18" width="100%" />
+  <img src="https://github.com/user-attachments/assets/f0c5ea63-ef37-4ee5-88b6-718c6f04e6cb" width="100%" alt="VQuant Capital - Alpha Finance"/>
 </div>
 
 <div align="center">
@@ -116,7 +116,6 @@ Beyond FinTech, we deliver high-performance digital products for businesses acro
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VQuant68&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=8" alt="VQuant68 GitHub Trophies" />
 </div>
-<br/>
 
 ---
 
