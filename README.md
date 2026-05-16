@@ -6,7 +6,7 @@
   <a href="https://vquant.vn">
     <img src="https://img.shields.io/badge/🌐_Website-vquant.vn-0A66C2?style=for-the-badge" alt="Website"/>
   </a>
-  <a href="mailto:support@vquant.vn">
+  <a href="mailto: admin@vquant.vn">
     <img src="https://img.shields.io/badge/📧_Email-Contact_Us-D14836?style=for-the-badge" alt="Email"/>
   </a>
   <a href="https://t.me/williamsug68">
