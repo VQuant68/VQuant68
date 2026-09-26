@@ -140,8 +140,8 @@ Whether you need a high-frequency trading engine, an AI-powered signal system, a
 | Channel | Link |
 |---|---|
 | 🌐 Website | [vquant.vn](https://vquant.vn) |
-| 💬 Telegram | [@williamsug68](https://t.me/williamsug68) |
-| 📧 Email | admin@vquant.vn |
+| 💬 Telegram | [@ClaytonWills](https://t.me/williamsug68) |
+| 📧 Email | support@vquant.vn |
 
 <br/>
 <div align="center">
