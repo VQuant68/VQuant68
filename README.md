@@ -9,7 +9,7 @@
   <a href="mailto: admin@vquant.vn">
     <img src="https://img.shields.io/badge/📧_Email-Contact_Us-D14836?style=for-the-badge" alt="Email"/>
   </a>
-  <a href="https://t.me/williamsug68">
+  <a href="https://t.me/ClaytonWills">
     <img src="https://img.shields.io/badge/💬_Telegram-williamsug68-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=VQuant68&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -140,8 +140,8 @@ Whether you need a high-frequency trading engine, an AI-powered signal system, a
 | Channel | Link |
 |---|---|
 | 🌐 Website | [vquant.vn](https://vquant.vn) |
-| 💬 Telegram | [@ClaytonWills](https://t.me/williamsug68) |
-| 📧 Email | support@vquant.vn |
+| 💬 Telegram | [@ClaytonWills](https://t.me/ClaytonWills) |
+| 📧 Email | admin@vquant.vn |
 
 <br/>
 <div align="center">
